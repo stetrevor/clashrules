@@ -1,1 +1,1 @@
-https://raw.githubusercontent.com/stetrevor/clashrules/master/
+https://raw.githubusercontent.com/stetrevor/clashrules/main/ZHANG_Media_Area_FallBack.ini
